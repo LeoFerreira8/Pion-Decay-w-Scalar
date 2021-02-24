@@ -1,3 +1,5 @@
+These codes were created by Marcelo M. Guzzo, Leonardo J. F. Leite, Sany Willian P. Novelo and V. Pleitez as part of the article [inserir link do ArXiv].
+
 The master file is Gamma.nb, which can be opened and edited in Wolfram Mathematica (version recommended is 12.1).
 
 The first section generates the expressions for the uncertainty in the quantities calculated.
