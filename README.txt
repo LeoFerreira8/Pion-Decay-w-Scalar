@@ -1,4 +1,4 @@
-These codes were created by Marcelo M. Guzzo, Leonardo J. F. Leite, Sany Willian P. Novelo and V. Pleitez as part of the article [inserir link do ArXiv].
+These codes were created by Marcelo M. Guzzo, Leonardo J. F. Leite, Sany Willian P. Novelo and V. Pleitez as part of the article [https://arxiv.org/abs/2102.13118][Published version: https://doi.org/10.1103/PhysRevD.107.095037].
 
 The master file is Gamma.nb, which can be opened and edited in Wolfram Mathematica (version recommended is 12.1).
 
